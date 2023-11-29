@@ -2,7 +2,9 @@
 
 [Droid Sans Mono](https://www.1001fonts.com/droid-sans-mono-font.html) / [Monaspace](https://monaspace.githubnext.com/) x [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)
 
-Merge fonts with [Warcraft Font Merger](https://github.com/nowar-fonts/Warcraft-Font-Merger)(魔兽世界字体合并/补全工具). I've been using `MonaspiceNeNerdFontPropo-Regular` in [Sublime Text](https://www.sublimetext.com/) and `DroidSansMNerdFontPropo-Regular` in [Termux](https://termux.dev/en/).
+Merge fonts with [Warcraft Font Merger](https://github.com/nowar-fonts/Warcraft-Font-Merger)(魔兽世界字体合并/补全工具).
+
+I've been using `MonaspiceArNerdFontPropo-Regular` in [Sublime Text](https://www.sublimetext.com/) and [Termux](https://termux.dev/en/).
 
 ## How to make (On Windows 10)
 
@@ -34,7 +36,7 @@ For example, `Sublime Text → Preferences → Settings`, edit:
 
 ```
 {
-	"font_face": "MonaspiceNe NFP + Sarasa Gothic SC + WFM Sans SC",
+	"font_face": "MonaspiceAr NFP + Sarasa Gothic SC + WFM Sans SC",
   "font_options": [
     "directwrite",
     "dwrite_cleartype_natural",
